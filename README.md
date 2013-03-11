@@ -1,4 +1,4 @@
-fredtaylor.github.com
+jason-wong.github.com
 =====================
 
-home page
+Thanks Github!
