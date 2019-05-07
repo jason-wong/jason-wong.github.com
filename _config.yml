@@ -1,0 +1,8 @@
+title: json-wong.github.io
+description: Home page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
